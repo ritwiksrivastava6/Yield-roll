@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/screener",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Screener — Fathom",
+      "hasCanvas": false,
+      "bodyTextLen": 2280,
+      "bodyTextHash": "720327833a67cbda6f21a8f736da5f5999b299eab533c4e65f5b9fa3245193c3",
+      "bodyTextPrefix": "Fathom Equities Screener Rates Commodities FX Strategy lab Portf",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/screener-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Screener — Fathom",
+      "hasCanvas": false,
+      "bodyTextLen": 3269,
+      "bodyTextHash": "e2bff007af94f03a837f10cbfad5a0d3279e9595a0de7fb75c6969c31fc0718c",
+      "bodyTextPrefix": "Fathom Day Dark Equities Screener Rates Commodities FX Strategy ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/screener-built-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/screener-built.json"
+}

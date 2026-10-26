@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vol — Yieldroll",
+      "hasCanvas": false,
+      "bodyTextLen": 2585,
+      "bodyTextHash": "e71e154eb967a60fcc2661e9fd93fe10bb5bd0b5ed49508a0f77605a57edcdf8",
+      "bodyTextPrefix": "Yieldroll Vol Screener Equities Rates Commodities FX Macro Strat",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/yieldroll-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vol — Yieldroll",
+      "hasCanvas": false,
+      "bodyTextLen": 2542,
+      "bodyTextHash": "451a83205a347f2173a399591fe678d103b1d3cb97eaca9f32ab74c735e3c3a0",
+      "bodyTextPrefix": "Yieldroll Day Dark Sign in Vol Screener Equities Rates Commoditi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/yieldroll-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/yieldroll-preview.json"
+}
