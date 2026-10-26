@@ -12,8 +12,11 @@ var install_page_default = "<!DOCTYPE html>\n<html lang=\"en\" class=\"device-de
 //#endregion
 //#region \0virtual:grok-og-identity
 var grokOgIdentity = { "site": {
-	"title": "Fathom",
-	"color": "10140F"
+	"title": "Yieldroll",
+	"card": "custom",
+	"color": "FF7A00",
+	"image": "/og.jpg",
+	"banner": "/x-banner.jpg"
 } };
 //#endregion
 //#region scripts/grok-pwa-shared.mjs
